@@ -121,7 +121,11 @@ input[name="animation"] {
   color: #dc3545 !important;
 }
 
-
+#Weapon,
+#Practice,
+#Contact {
+  scroll-margin-top: 80px;
+}
 
 /* Ensure navbar-collapse works properly */
 .navbar-collapse {
